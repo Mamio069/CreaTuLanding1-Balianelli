@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/CreaTuLanding1-Balianelli/static/css/main.4e0ca57a.css",
-    "main.js": "/CreaTuLanding1-Balianelli/static/js/main.ab58441c.js",
+    "main.js": "/CreaTuLanding1-Balianelli/static/js/main.75ad4cfe.js",
     "static/js/453.fcf200cf.chunk.js": "/CreaTuLanding1-Balianelli/static/js/453.fcf200cf.chunk.js",
     "static/media/logo.png": "/CreaTuLanding1-Balianelli/static/media/logo.48d586b05dab18c3fb71.png",
     "index.html": "/CreaTuLanding1-Balianelli/index.html",
     "main.4e0ca57a.css.map": "/CreaTuLanding1-Balianelli/static/css/main.4e0ca57a.css.map",
-    "main.ab58441c.js.map": "/CreaTuLanding1-Balianelli/static/js/main.ab58441c.js.map",
+    "main.75ad4cfe.js.map": "/CreaTuLanding1-Balianelli/static/js/main.75ad4cfe.js.map",
     "453.fcf200cf.chunk.js.map": "/CreaTuLanding1-Balianelli/static/js/453.fcf200cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e0ca57a.css",
-    "static/js/main.ab58441c.js"
+    "static/js/main.75ad4cfe.js"
   ]
 }
