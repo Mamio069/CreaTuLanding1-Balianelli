@@ -19,18 +19,6 @@ export default function Footer() {
             <a href="/zapatillas" className="text-light mx-2 text-decoration-none">Zapatillas</a>
           </div>
           
-          <div className="col-md-4 text-center text-md-end">
-            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-light mx-2">
-              <i className="bi bi-facebook fs-4"></i>
-            </a>
-            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-light mx-2">
-              <i className="bi bi-instagram fs-4"></i>
-            </a>
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-light mx-2">
-              <i className="bi bi-twitter fs-4"></i>
-            </a>
-          </div>
-
         </div>
       </div>
     </footer>
