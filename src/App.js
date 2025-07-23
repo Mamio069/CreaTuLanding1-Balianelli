@@ -17,10 +17,22 @@ function App() {
       <NavBar />
       <BrowserRouter>
         <Routes>
-          <Route path="/camperas" element={<Camperas />} />
-          <Route path="/pantalones" element={<Pantalones />} />
-          <Route path="/zapatillas" element={<Zapatillas />} />
-          <Route path="/remeras" element={<Remeras />} />
+          <Route
+            path="CreaTuLanding1-Balianelli/camperas"
+            element={<Camperas />}
+          />
+          <Route
+            path="CreaTuLanding1-Balianelli/pantalones"
+            element={<Pantalones />}
+          />
+          <Route
+            path="CreaTuLanding1-Balianelli/zapatillas"
+            element={<Zapatillas />}
+          />
+          <Route
+            path="CreaTuLanding1-Balianelli/remeras"
+            element={<Remeras />}
+          />
         </Routes>
       </BrowserRouter>
       <Footer />
