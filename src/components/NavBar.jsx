@@ -14,10 +14,10 @@ export default function NavBar() {
 <br />
 
         <div className="d-flex gap-4 menu-links">
-          <a href="/remeras" className="nav-link-custom">Remeras</a>
-          <a href="/pantalones" className="nav-link-custom">Pantalones</a>
-          <a href="/camperas" className="nav-link-custom">Camperas</a>
-          <a href="/zapatillas" className="nav-link-custom">Zapatillas</a>
+          <a href="CreaTuLanding1-Balianelli/remeras" className="nav-link-custom">Remeras</a>
+          <a href="CreaTuLanding1-Balianelli/pantalones" className="nav-link-custom">Pantalones</a>
+          <a href="CreaTuLanding1-Balianelli/camperas" className="nav-link-custom">Camperas</a>
+          <a href="CreaTuLanding1-Balianelli/zapatillas" className="nav-link-custom">Zapatillas</a>
         </div>
 <br />
         
