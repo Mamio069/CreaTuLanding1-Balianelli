@@ -12,11 +12,11 @@ export default function Footer() {
           </div>
           
           <div className="col-md-4 text-center mb-3 mb-md-0">
-            <a href="" className="text-light mx-2 text-decoration-none">Inicio</a>
-            <a href="CreaTuLanding1-Balianelli/remeras" className="text-light mx-2 text-decoration-none">Remeras</a>
-            <a href="CreaTuLanding1-Balianelli/pantalones" className="text-light mx-2 text-decoration-none">Pantalones</a>
-            <a href="CreaTuLanding1-Balianelli/camperas" className="text-light mx-2 text-decoration-none">Camperas</a>
-            <a href="CreaTuLanding1-Balianelli/zapatillas" className="text-light mx-2 text-decoration-none">Zapatillas</a>
+            <a href="/" className="text-light mx-2 text-decoration-none">Inicio</a>
+            <a href="/remeras" className="text-light mx-2 text-decoration-none">Remeras</a>
+            <a href="/pantalones" className="text-light mx-2 text-decoration-none">Pantalones</a>
+            <a href="/camperas" className="text-light mx-2 text-decoration-none">Camperas</a>
+            <a href="/zapatillas" className="text-light mx-2 text-decoration-none">Zapatillas</a>
           </div>
           
           <div className="col-md-4 text-center text-md-end">
