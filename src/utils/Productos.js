@@ -5,7 +5,7 @@ const productos = [
     precio: 25000,
     categoria: "remeras",
     imagen:
-      "https://acdn.mitiendanube.com/stores/001/076/129/products/remera-blanca11-31cd9b25f248bce0c716957283089371-640-0.webp",
+      "https://acdn-us.mitiendanube.com/stores/709/396/products/overblanco1-cf0f466a95dd871e9816956473707990-240-0.png",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const productos = [
     precio: 26500,
     categoria: "remeras",
     imagen:
-      "https://http2.mlstatic.com/D_NQ_NP_691198-MLA49708762606_042022-O.webp",
+      "https://nayaindumentaria.com/wp-content/uploads/2021/11/copa-y-messi-negro-1.jpg",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const productos = [
     precio: 28500,
     categoria: "remeras",
     imagen:
-      "https://acdn.mitiendanube.com/stores/001/076/129/products/remera-beige11-456d2fc3e9e2b6a68916957282853415-640-0.webp",
+      "https://acdn-us.mitiendanube.com/stores/001/702/486/products/rc27413i-2-a8b7de5a806cac72ca17483022504530-1024-1024.jpg",
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const productos = [
     precio: 24000,
     categoria: "remeras",
     imagen:
-      "https://acdn.mitiendanube.com/stores/001/076/129/products/remera-rosa11-9d6405bdfe2d658e2616957282842387-640-0.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LkYHxDNpSQ2kZ1egmQMm4ixyr5nXTZSq4w&s",
   },
 
   {
