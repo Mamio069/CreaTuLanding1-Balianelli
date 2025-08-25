@@ -1,7 +1,7 @@
 import React from 'react';
-import productos from "../utils/Productos"
+import productos from "../utils/Productos";
 import { FaShoePrints } from 'react-icons/fa';
-
+import ItemCount from './ItemCount';
 
 export default function Zapatillas() {
   const zapatillas = productos.filter((item) =>
@@ -29,7 +29,14 @@ export default function Zapatillas() {
               <div className="card-body d-flex flex-column justify-content-between">
                 <h5 className="card-title">{producto.nombre}</h5>
                 <p className="card-text fw-semibold">${producto.precio.toLocaleString()}</p>
-                <button className="btn btn-dark w-100 mt-auto">Agregar al carrito</button>
+
+                <ItemCount
+                  stock={10}
+                  initial={1}
+                  onAdd={(cantidad) =>
+                    console.log(`Agregaste ${cantidad} ${producto.nombre} al carrito`)
+                  }
+                />
               </div>
             </div>
           </div>

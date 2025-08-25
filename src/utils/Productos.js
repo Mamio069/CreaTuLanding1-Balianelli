@@ -38,7 +38,7 @@ const productos = [
     precio: 40000,
     categoria: "pantalones",
     imagen:
-      "https://acdn.mitiendanube.com/stores/001/489/347/products/1b6c72d7-d503-42a0-93b6-89e87a3d934e-nuevo1-1241db5e7dbe69abcb16911709654776-640-0.webp",
+      "https://tascani.vtexassets.com/arquivos/ids/180864-800-auto?v=638824004568230000&width=800&height=auto&aspect=true",
   },
   {
     id: 6,
@@ -46,7 +46,7 @@ const productos = [
     precio: 38500,
     categoria: "pantalones",
     imagen:
-      "https://acdn.mitiendanube.com/stores/001/240/116/products/pantalon-beige11-7843b1dc6b6b7a6c5516902383728223-640-0.webp",
+      "https://acdn-us.mitiendanube.com/stores/001/343/531/products/beige1-18b3ce49899fd9915c17097301677416-1024-1024.jpg",
   },
   {
     id: 7,
@@ -54,7 +54,7 @@ const productos = [
     precio: 42000,
     categoria: "pantalones",
     imagen:
-      "https://acdn.mitiendanube.com/stores/001/489/347/products/cargo-verde-militar1-8c70eb9b4e12106ed116864781733581-640-0.webp",
+      "https://acdn-us.mitiendanube.com/stores/001/015/914/products/896_mesa-de-trabajo-11-229dcb4cd46f99686716904896029763-640-0.png"
   },
   {
     id: 8,
@@ -62,7 +62,7 @@ const productos = [
     precio: 40500,
     categoria: "pantalones",
     imagen:
-      "https://acdn.mitiendanube.com/stores/001/069/924/products/oxford1-3b17d232b2f0a7c3bc16849529133497-640-0.webp",
+      "https://www.lto.com.ar/wp-content/uploads/2024/07/DSC_0347-2.jpg",
   },
 
   {
@@ -71,7 +71,7 @@ const productos = [
     precio: 150000,
     categoria: "zapatillas",
     imagen:
-      "https://acdn.mitiendanube.com/stores/001/240/116/products/zapatillas-negras11-9e92a2f4fbb99f99f416902383722353-640-0.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX9UINOZ3MJ0FgBtAuMDpjOxoBWPaLFEHY3A&s"
   },
   {
     id: 10,
@@ -79,7 +79,7 @@ const productos = [
     precio: 152000,
     categoria: "zapatillas",
     imagen:
-      "https://acdn.mitiendanube.com/stores/001/076/129/products/zapatillas-blancas11-2eb503f35795154e8016957282857405-640-0.webp",
+      "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw7762f404/products/AD_GZ5300/AD_GZ5300-6.JPG",
   },
   {
     id: 11,
@@ -87,7 +87,8 @@ const productos = [
     precio: 160000,
     categoria: "zapatillas",
     imagen:
-      "https://acdn.mitiendanube.com/stores/001/417/239/products/whatsapp-image-2023-03-31-at-15-10-331-8d29bd03f8f2fbc8a616804101875928-640-0.jpeg",
+      "https://m.media-amazon.com/images/I/71H1AxZrY4L._AC_SL1500_.jpg",
+
   },
   {
     id: 12,
@@ -95,7 +96,7 @@ const productos = [
     precio: 155000,
     categoria: "zapatillas",
     imagen:
-      "https://acdn.mitiendanube.com/stores/001/427/065/products/s-l16001-19a3e0a7dc69b7417616758131620794-640-0.jpg",
+      "https://i5.walmartimages.com/asr/6089a308-c6c3-4535-a8c1-22dacf86f2e1.ccb1f259801f2ee00230ef2134c372d6.jpeg",
   },
 
   {
@@ -104,7 +105,7 @@ const productos = [
     precio: 175000,
     categoria: "camperas",
     imagen:
-      "https://acdn.mitiendanube.com/stores/001/489/347/products/campera-negra11-6f1469b9496d75013e16911709570346-640-0.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_644325-MLA75547791201_042024-O.webp",
   },
   {
     id: 14,
@@ -112,7 +113,7 @@ const productos = [
     precio: 180000,
     categoria: "camperas",
     imagen:
-      "https://acdn.mitiendanube.com/stores/001/240/116/products/campera-rosa11-3f16c544f3c9bd5b3716902383781555-640-0.webp",
+      "https://dcdn-us.mitiendanube.com/stores/002/923/439/products/6ca48458-6a39-4ff1-b0e6-2ad955de11ae21-b1d18c9e7f81e74de116878907938986-1024-1024.jpeg",
   },
   {
     id: 15,
@@ -120,7 +121,7 @@ const productos = [
     precio: 170000,
     categoria: "camperas",
     imagen:
-      "https://acdn.mitiendanube.com/stores/001/417/239/products/rompeviento-gris11-cc173eb6dcd121e8e116808208457689-640-0.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmJzImy__rm1-BC4_GH-4_7DTRxChb8WtS5g&s",
   },
   {
     id: 16,
@@ -128,7 +129,8 @@ const productos = [
     precio: 178000,
     categoria: "camperas",
     imagen:
-      "https://acdn.mitiendanube.com/stores/001/489/347/products/jean-oversize11-11cd1a2977708571016911709729257-640-0.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTVC5DObZwXUxxsF-VQTvqNxrORadTgmKRA&s",
+
   },
 ];
 

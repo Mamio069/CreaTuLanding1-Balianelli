@@ -1,7 +1,7 @@
 import React from 'react';
-import productos  from '../utils/Productos';
+import productos from '../utils/Productos';
 import { FaTshirt } from 'react-icons/fa';
-
+import ItemCount from './ItemCount'; 
 export default function Remeras() {
   const remeras = productos.filter((item) =>
     item.nombre.toLowerCase().includes('remera')
@@ -28,7 +28,14 @@ export default function Remeras() {
               <div className="card-body d-flex flex-column justify-content-between">
                 <h5 className="card-title">{producto.nombre}</h5>
                 <p className="card-text fw-semibold">${producto.precio.toLocaleString()}</p>
-                <button className="btn btn-dark w-100 mt-auto">Agregar al carrito</button>
+
+                <ItemCount
+                  stock={10}      // Stock máximo
+                  initial={1}     // Cantidad inicial
+                  onAdd={(cantidad) =>
+                    console.log(`Agregaste ${cantidad} ${producto.nombre} al carrito`)
+                  }
+                />
               </div>
             </div>
           </div>
@@ -37,4 +44,3 @@ export default function Remeras() {
     </div>
   );
 }
-
